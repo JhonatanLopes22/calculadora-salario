@@ -10,4 +10,3 @@ baseado no valor por hora e na quantidade de horas trabalhadas calcula o quanto 
 
 ## 🔨 Tecnologias utilizadas
 ** HTML, CSS, Javascript
-
